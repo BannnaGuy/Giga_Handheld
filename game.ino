@@ -1,3 +1,6 @@
+//Does not have same pin declarations as pcb to be build on bread board
+//game incompleat
+//Copyright (c) 2026 Tyler Hughes
 #include <Arduino_GigaDisplay_GFX.h>
 #include <Arduino_GigaDisplay.h>
 GigaDisplay_GFX display; // create the object
